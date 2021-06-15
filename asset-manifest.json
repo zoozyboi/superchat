@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatroom-exam/static/css/main.86340124.chunk.css",
+    "main.js": "/chatroom-exam/static/js/main.becbd9d3.chunk.js",
+    "main.js.map": "/chatroom-exam/static/js/main.becbd9d3.chunk.js.map",
+    "runtime-main.js": "/chatroom-exam/static/js/runtime-main.6fd61b60.js",
+    "runtime-main.js.map": "/chatroom-exam/static/js/runtime-main.6fd61b60.js.map",
+    "static/js/2.9cd2ce5f.chunk.js": "/chatroom-exam/static/js/2.9cd2ce5f.chunk.js",
+    "static/js/2.9cd2ce5f.chunk.js.map": "/chatroom-exam/static/js/2.9cd2ce5f.chunk.js.map",
+    "static/js/3.58c8d935.chunk.js": "/chatroom-exam/static/js/3.58c8d935.chunk.js",
+    "static/js/3.58c8d935.chunk.js.map": "/chatroom-exam/static/js/3.58c8d935.chunk.js.map",
+    "index.html": "/chatroom-exam/index.html",
+    "static/css/main.86340124.chunk.css.map": "/chatroom-exam/static/css/main.86340124.chunk.css.map",
+    "static/js/2.9cd2ce5f.chunk.js.LICENSE.txt": "/chatroom-exam/static/js/2.9cd2ce5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd61b60.js",
+    "static/js/2.9cd2ce5f.chunk.js",
+    "static/css/main.86340124.chunk.css",
+    "static/js/main.becbd9d3.chunk.js"
+  ]
+}
